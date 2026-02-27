@@ -1,4 +1,5 @@
-![17722166063626723297952026827924](https://github.com/user-attachments/assets/6bce5334-04a1-482e-83bb-f2bbb12fbff5)
+<img width="540" height="528" alt="17722166656625873964108013967606" src="https://github.com/user-attachments/assets/663cc301-deef-4bff-9500-283bffcb6bf1" />
+
 
 <!--
 **BeamBloom/BeamBloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
